@@ -1,0 +1,1204 @@
+[
+  {
+    "id": 1,
+    "titre": "Scandale de financement",
+    "effet": "Tu es accusé d'avoir payé ta campagne avec des NFT de mauvaise qualité.",
+    "malus": "Les Capitalistes Anonymes"
+  },
+  {
+    "id": 2,
+    "titre": "Débat sous substances",
+    "effet": "Perds 2 PP, mais +1 PP si tu improvises un slogan cosmique.",
+    "bonus": "Les Éveillés de la Lune"
+  },
+  {
+    "id": 3,
+    "titre": "Chantage à la morale",
+    "effet": "Tu dénonces la corruption de ton adversaire, puis on découvre ta villa offerte par le Vatican. -3 PP.",
+    "malus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 4,
+    "titre": "Slogan populiste",
+    "effet": "Tu promets 'Du pain, du vin et du Wi-Fi gratuit !' +2 PP.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 5,
+    "titre": "Fake news rédemptrice",
+    "effet": "Une rumeur affirme que tu aurais sauvé un dauphin d’un incendie. +2 PP.",
+    "bonus": "Les Croisés du Progrès Écologique"
+  },
+  {
+    "id": 6,
+    "titre": "Discours sous hologramme",
+    "effet": "Tu fais ton meeting en hologramme 3D, mais le bug te transforme en Pikachu. +1 PP si les gens pensent que c’est spirituel.",
+    "bonus": "Le Parti du Divin Ordinateur"
+  },
+  {
+    "id": 7,
+    "titre": "Alliance toxique",
+    "effet": "Tu t’associes avec un parti que tu as insulté la veille. +1 PP chacun, sauf si déjà alliés (-2 PP chacun).",
+    "malus": "La République du Centre Mou"
+  },
+  {
+    "id": 8,
+    "titre": "Manipulation de sondages",
+    "effet": "Tu publies un sondage interne : 'Nous gagnons à 143 % !' +2 PP.",
+    "bonus": "Le Parti de la Vérité Suprême"
+  },
+  {
+    "id": 9,
+    "titre": "Débat surréaliste",
+    "effet": "Tu te perds dans une métaphore sur la liberté des chaises. -1 PP, mais +1 PP si tu fais rire deux joueurs.",
+    "bonus": "Les Libertins Républicains"
+  },
+  {
+    "id": 10,
+    "titre": "Campagne TikTok",
+    "effet": "Tu fais une danse électorale sur fond de discours haineux. +3 PP sauf si quelqu’un a plus de 30 ans (-2 PP).",
+    "malus": "Les Féministes Révolutionnaires"
+  },
+  {
+    "id": 11,
+    "titre": "Coup d'État accidentel",
+    "effet": "Tu déclenches un putsch en pensant organiser un brunch. Tous perdent 1 PP, toi tu gagnes +2 PP.",
+    "bonus": "Le Parti des Anarchistes Unis"
+  },
+  {
+    "id": 12,
+    "titre": "Vote électronique piraté",
+    "effet": "Tu remportes 104 % des voix, mais la machine affiche un smiley. +2 PP, -1 PP à ton voisin de droite.",
+    "malus": "Les Pirates du Savoir"
+  },
+  {
+    "id": 13,
+    "titre": "Coup médiatique raté",
+    "effet": "Tu organises un faux attentat pour attirer la pitié. -2 PP.",
+    "malus": "Le Parti Royal & Divin"
+  },
+  {
+    "id": 14,
+    "titre": "Corruption bienveillante",
+    "effet": "Tu vends des places au paradis politique à 20 000 € le siège. +3 PP, mais perds 1 PP par joueur religieux.",
+    "bonus": "Le Parti du Bon Sens Agricole"
+  },
+  {
+    "id": 15,
+    "titre": "Espion infiltré",
+    "effet": "Un agent secret travaille pour toi, mais il s’est trompé de camp. Lance un dé : pair > +2 PP / impair > -2 PP.",
+    "malus": "Le Parti du Marteau & du Chiffon"
+  },
+  {
+    "id": 16,
+    "titre": "Alliance trans-partisane",
+    "effet": "Tu formes un gouvernement 'de l’amour et de la haine constructive'. +2 PP si allié avec un opposé.",
+    "bonus": "Le Parti de la Mémoire Collective"
+  },
+  {
+    "id": 17,
+    "titre": "Démission dramatique",
+    "effet": "Tu claques la porte à la télévision, mais reviens à la pub suivante. -1 PP puis +3 PP.",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 18,
+    "titre": "Tentative de coup de pub",
+    "effet": "Tu te fais tatouer 'Votez-moi' sur le front. +2 PP si tu le dis à voix haute.",
+    "malus": "Les Illuminés Complotistes"
+  },
+  {
+    "id": 19,
+    "titre": "Révolution de salon",
+    "effet": "Tu appelles à la grève générale depuis ta villa de 800 m². -2 PP.",
+    "malus": "Les Transhumanistes Fous"
+  },
+  {
+    "id": 20,
+    "titre": "Trahison ministérielle",
+    "effet": "Ton ministre te poignarde politiquement… puis t’invite à dîner. Tu perds 2 PP, il gagne 2 PP.",
+    "bonus": "Les Nationalistes du Buffet"
+  },
+
+  {
+    "id": 21,
+    "titre": "Subvention mystique",
+    "effet": "Tu obtiens 3 millions d’euros pour 'étudier les chakras du Sénat'. +2 PP.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 22,
+    "titre": "Discours en vers libres",
+    "effet": "Tu récites ton programme en alexandrins. +1 PP si personne ne t’interrompt.",
+    "bonus": "Les Éveillés de la Lune"
+  },
+  {
+    "id": 23,
+    "titre": "Réforme du fromage",
+    "effet": "Tu proposes une AOC électorale pour le camembert. +2 PP.",
+    "bonus": "Les Nationalistes du Buffet"
+  },
+  {
+    "id": 24,
+    "titre": "Labourage symbolique",
+    "effet": "Tu plantes une graine pendant ton discours. Annule un malus.",
+    "bonus": "Le Parti du Bon Sens Agricole"
+  },
+  {
+    "id": 25,
+    "titre": "Miracle fiscal",
+    "effet": "Tu transformes une dette en bénédiction. +2 PP.",
+    "bonus": "Le Parti Royal & Divin"
+  },
+  {
+    "id": 26,
+    "titre": "Tournée générale",
+    "effet": "Tous les joueurs gagnent +1 PP sauf le plus riche.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 27,
+    "titre": "Tweet incendiaire",
+    "effet": "Tu insultes un autre parti en 280 caractères. +1 PP si ça devient viral.",
+    "bonus": "Le Parti de la Vérité Suprême"
+  },
+  {
+    "id": 28,
+    "titre": "Manifestation poétique",
+    "effet": "Tu déclames un manifeste féministe en rimes. +2 PP si tu fais pleurer quelqu’un.",
+    "bonus": "Les Féministes Révolutionnaires"
+  },
+  {
+    "id": 29,
+    "titre": "Fuite de données",
+    "effet": "Tu publies les secrets d’un autre joueur. +2 PP, lui perd 1 PP.",
+    "bonus": "Les Pirates du Savoir"
+  },
+  {
+    "id": 30,
+    "titre": "Séduction électorale",
+    "effet": "Tu fais un clin d’œil à la caméra. Vole 1 PP si tu fais rire.",
+    "bonus": "Les Libertins Républicains"
+  },
+  {
+    "id": 31,
+    "titre": "Grève des discours",
+    "effet": "Tu refuses de parler pendant un tour. +1 PP si personne ne te provoque.",
+    "bonus": "Le Parti du Marteau & du Chiffon"
+  },
+  {
+    "id": 32,
+    "titre": "Compromis PowerPoint",
+    "effet": "Tu proposes une réforme en 12 diapositives. +1 PP si personne ne s’endort.",
+    "bonus": "La République du Centre Mou"
+  },
+  {
+    "id": 33,
+    "titre": "Apéro constitutionnel",
+    "effet": "Tu rédiges une loi entre deux verres. +2 PP si elle est votée.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 34,
+    "titre": "Réincarnation politique",
+    "effet": "Tu changes de parti en pleine séance. +1 PP si tu convaincs quelqu’un.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 35,
+    "titre": "Réforme en emojis",
+    "effet": "Tu proposes une loi uniquement en pictogrammes. +2 PP si elle est comprise.",
+    "bonus": "Le Parti du Divin Ordinateur"
+  },
+  {
+    "id": 36,
+    "titre": "Rachat électoral",
+    "effet": "Tu achètes une carte Action à un autre joueur contre 2 PP.",
+    "bonus": "Les Capitalistes Anonymes"
+  },
+  {
+    "id": 37,
+    "titre": "Slogan biodégradable",
+    "effet": "Tu lances un message écolo qui se dissout dans l’air. +2 PP.",
+    "bonus": "Les Croisés du Progrès Écologique"
+  },
+  {
+    "id": 38,
+    "titre": "Réunion en cave",
+    "effet": "Tu organises un meeting dans une cave Wi-Fi-proof. +1 PP si personne ne fuit.",
+    "bonus": "Les Illuminés Complotistes"
+  },
+  {
+    "id": 39,
+    "titre": "Loi lunaire",
+    "effet": "Tu proposes une réforme basée sur les phases lunaires. +2 PP.",
+    "bonus": "Les Éveillés de la Lune"
+  },
+  {
+    "id": 40,
+    "titre": "Vote en peignoir",
+    "effet": "Tu arrives à l’Assemblée en pantoufles. +1 PP si quelqu’un t’imite.",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 41,
+    "titre": "Conférence du sarcasme viral",
+    "effet": "Tu fais exploser les réseaux avec une punchline absurde. +2 PP.",
+    "bonus": "Le Parti de la Vérité Suprême"
+  },
+  {
+    "id": 42,
+    "titre": "Ironie stratégique",
+    "effet": "Tu transformes un bonus en malus (et inversement).",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 43,
+    "titre": "Débat en langage des mèmes",
+    "effet": "Tu ne parles qu’en GIFs et hashtags. +2 PP.",
+    "bonus": "Les Illuminés Complotistes"
+  },
+  {
+    "id": 44,
+    "titre": "Sarcasme intergalactique",
+    "effet": "Tu réponds à une réforme par un jeu de mots cosmique. +2 PP.",
+    "bonus": "Le Parti du Marteau & du Chiffon"
+  },
+  {
+    "id": 45,
+    "titre": "Salon du sarcasme en pyjama",
+    "effet": "Tu débats en pantoufles. +1 PP si quelqu’un t’imite.",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 46,
+    "titre": "Vote absurde",
+    "effet": "Tu proposes une loi inutile mais populaire. +2 PP.",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 47,
+    "titre": "Autodérision publique",
+    "effet": "Tu te moques de ton propre programme. +1 PP si tu fais rire.",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 48,
+    "titre": "Clown sincère",
+    "effet": "Tu prouves que tu n’es pas un clown… en costume de clown. +2 PP si le jury démissionne.",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 49,
+    "titre": "Censure bienveillante",
+    "effet": "Tu interdis tout ce qui te dérange, au nom de la liberté. -2 PP.",
+    "malus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 50,
+    "titre": "Talk-show toxique",
+    "effet": "Tu cries plus fort que l’animateur. +2 PP si le public vote pour toi.",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 51,
+    "titre": "Réforme du silence",
+    "effet": "Tu proposes de ne plus parler en politique. +1 PP si personne ne proteste.",
+    "bonus": "Le Parti des Anarchistes Unis"
+  },
+  {
+    "id": 52,
+    "titre": "Vote par télépathie",
+    "effet": "Tu proposes une réforme mentale. +2 PP si quelqu’un devine ton idée.",
+    "bonus": "Les Éveillés de la Lune"
+  },
+  {
+    "id": 53,
+    "titre": "Compromis liquide",
+    "effet": "Tu changes d’avis trois fois en une phrase. +1 PP.",
+    "bonus": "La République du Centre Mou"
+  },
+  {
+    "id": 54,
+    "titre": "Réforme du pastis",
+    "effet": "Tu proposes un ministère de l’apéro. +2 PP.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 55,
+    "titre": "Mise à jour politique",
+    "effet": "Tu installes un patch démocratique. +3 PP si la carte est technologique.",
+    "bonus": "Les Transhumanistes Fous"
+  },
+  {
+    "id": 56,
+    "titre": "Toucher de terre",
+    "effet": "Tu annules un effet en touchant du sol. +1 PP.",
+    "bonus": "Le Parti du Bon Sens Agricole"
+  },
+  {
+    "id": 57,
+    "titre": "Saucisson diplomatique",
+    "effet": "Tu négocies une alliance autour d’un plateau de charcuterie. +2 PP.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 58,
+    "titre": "Vote en chantant",
+    "effet": "Tu votes en chantant l’hymne. +1 PP si quelqu’un t’accompagne.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 59,
+    "titre": "Réplique féministe",
+    "effet": "Tu doubles l’effet d’une carte qui cible ton genre.",
+    "bonus": "Les Féministes Révolutionnaires"
+  },
+  {
+    "id": 60,
+    "titre": "Couronne cosmique",
+    "effet": "Tu déclares que ton pouvoir est divin. +2 PP si personne ne conteste.",
+    "bonus": "Le Parti Royal & Divin"
+  },
+  {
+    "id": 61,
+    "titre": "Vote pyramidal",
+    "effet": "Tu proposes un système électoral basé sur l’énergie des cristaux. +2 PP si personne ne rit.",
+    "bonus": "Les Illuminés Complotistes"
+  },
+  {
+    "id": 62,
+    "titre": "Mémoire populaire",
+    "effet": "Tu rejoues une carte Action déjà utilisée. +1 PP.",
+    "bonus": "Le Parti de la Mémoire Collective"
+  },
+  {
+    "id": 63,
+    "titre": "Réforme du Wi-Fi sacré",
+    "effet": "Tu proposes une loi pour sanctifier les zones sans réseau. +2 PP.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 64,
+    "titre": "Fusion de start-ups",
+    "effet": "Tu crées une alliance entre deux partis technologiques. +2 PP si elle tient un tour.",
+    "bonus": "Les Capitalistes Anonymes"
+  },
+  {
+    "id": 65,
+    "titre": "Karma électoral",
+    "effet": "Redistribue les PP de tous les joueurs à égalité.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 66,
+    "titre": "Baiser diplomatique",
+    "effet": "Tu embrasses un adversaire en direct. +1 PP si ça devient un mème.",
+    "bonus": "Les Libertins Républicains"
+  },
+  {
+    "id": 67,
+    "titre": "Hack du programme",
+    "effet": "Tu modifies une carte Action en ta faveur. +2 PP.",
+    "bonus": "Les Pirates du Savoir"
+  },
+  {
+    "id": 68,
+    "titre": "Slogan compostable",
+    "effet": "Tu proposes une réforme biodégradable. +2 PP.",
+    "bonus": "Les Croisés du Progrès Écologique"
+  },
+  {
+    "id": 69,
+    "titre": "Tweet de vérité",
+    "effet": "Tu annules une carte Action contenant un mensonge.",
+    "bonus": "Le Parti de la Vérité Suprême"
+  },
+  {
+    "id": 70,
+    "titre": "Réforme lunaire",
+    "effet": "Tu bases ton programme sur les phases de la lune. +2 PP.",
+    "bonus": "Les Éveillés de la Lune"
+  },
+  {
+    "id": 71,
+    "titre": "Discours algorithmique",
+    "effet": "Tu laisses une IA rédiger ton programme. +2 PP si personne ne remarque.",
+    "bonus": "Le Parti du Divin Ordinateur"
+  },
+  {
+    "id": 72,
+    "titre": "Chaos organisé",
+    "effet": "Tu déclares que tout est sous contrôle… puis tu renverses la table. +1 PP.",
+    "bonus": "Le Parti des Anarchistes Unis"
+  },
+  {
+    "id": 73,
+    "titre": "Résurrection politique",
+    "effet": "Tu reviens après avoir été éliminé. +2 PP si tu changes de slogan.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 74,
+    "titre": "Buffet patriotique",
+    "effet": "Tu organises un banquet électoral. +1 PP si tu manges en jouant.",
+    "bonus": "Les Nationalistes du Buffet"
+  },
+  {
+    "id": 75,
+    "titre": "Réforme du rire",
+    "effet": "Tu proposes que chaque loi soit drôle. +2 PP si quelqu’un rit.",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 76,
+    "titre": "Vote en silence",
+    "effet": "Tu refuses de parler pendant ton tour. +1 PP si personne ne proteste.",
+    "bonus": "Le Parti des Anarchistes Unis"
+  },
+  {
+    "id": 77,
+    "titre": "Vote quantique",
+    "effet": "Tu votes pour deux partis à la fois. +2 PP si personne ne t’arrête.",
+    "bonus": "Les Illuminés Complotistes"
+  },
+  {
+    "id": 78,
+    "titre": "Réforme du sommeil",
+    "effet": "Tu proposes des siestes obligatoires au Parlement. +1 PP si quelqu’un s’endort.",
+    "bonus": "Le Parti du Divin Ordinateur"
+  },
+  {
+    "id": 79,
+    "titre": "Vote en hologramme",
+    "effet": "Tu apparais en 3D pour voter. +2 PP si ton avatar est stylé.",
+    "bonus": "Les Transhumanistes Fous"
+  },
+  {
+    "id": 80,
+    "titre": "Fusion spirituelle",
+    "effet": "Tu proposes une alliance mystique. +2 PP si elle est bénie.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 81,
+    "titre": "Vote en slip tricolore",
+    "effet": "Tu votes en tenue patriotique minimaliste. +1 PP si personne ne s’offusque.",
+    "bonus": "Les Nationalistes du Buffet"
+  },
+  {
+    "id": 82,
+    "titre": "Réconciliation publique",
+    "effet": "Tu fais la paix avec un adversaire en direct. +2 PP si vous vous serrez la main.",
+    "bonus": "Le Parti de la Mémoire Collective"
+  },
+  {
+    "id": 83,
+    "titre": "Réforme du barbecue",
+    "effet": "Tu proposes une loi sur les saucisses électorales. +2 PP si quelqu’un a faim.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 84,
+    "titre": "Vote en télépathie",
+    "effet": "Tu votes sans parler. +1 PP si quelqu’un devine ton choix.",
+    "bonus": "Les Éveillés de la Lune"
+  },
+  {
+    "id": 85,
+    "titre": "Réforme du sommeil",
+    "effet": "Tu proposes des siestes obligatoires. +2 PP si quelqu’un s’endort.",
+    "bonus": "Le Parti du Divin Ordinateur"
+  },
+  {
+    "id": 86,
+    "titre": "Alliance mystique",
+    "effet": "Tu formes une alliance bénie par les astres. +2 PP si elle dure deux tours.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 87,
+    "titre": "Vote en chantant",
+    "effet": "Tu votes en chantant l’hymne. +1 PP si quelqu’un t’accompagne.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 88,
+    "titre": "Réforme du fromage fondu",
+    "effet": "Tu proposes une loi sur la raclette obligatoire. +2 PP si quelqu’un salive.",
+    "bonus": "Les Nationalistes du Buffet"
+  },
+  {
+    "id": 89,
+    "titre": "Implant électoral",
+    "effet": "Tu proposes de voter par puce cérébrale. +3 PP si personne ne panique.",
+    "bonus": "Les Transhumanistes Fous"
+  },
+  {
+    "id": 90,
+    "titre": "Vote en vers libres",
+    "effet": "Tu votes en poésie. +2 PP si quelqu’un t’applaudit.",
+    "bonus": "Les Éveillés de la Lune"
+  },
+  {
+    "id": 91,
+    "titre": "Réforme holographique",
+    "effet": "Tu apparais en 3D pour proposer une loi. +2 PP si ton avatar est stylé.",
+    "bonus": "Le Parti du Divin Ordinateur"
+  },
+  {
+    "id": 92,
+    "titre": "Réforme du silence",
+    "effet": "Tu proposes de ne plus parler en politique. +1 PP si personne ne proteste.",
+    "bonus": "Le Parti des Anarchistes Unis"
+  },
+  {
+    "id": 93,
+    "titre": "Résurrection démocratique",
+    "effet": "Tu reviens après avoir été éliminé. +2 PP si tu changes de slogan.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 94,
+    "titre": "Réforme du rire",
+    "effet": "Tu proposes que chaque loi soit drôle. +2 PP si quelqu’un rit.",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 95,
+    "titre": "Fuite de données",
+    "effet": "Tu publies les secrets d’un autre joueur. +2 PP, lui perd 1 PP.",
+    "bonus": "Les Pirates du Savoir"
+  },
+  {
+    "id": 96,
+    "titre": "Tweet de vérité",
+    "effet": "Tu annules une carte Action contenant un mensonge.",
+    "bonus": "Le Parti de la Vérité Suprême"
+  },
+  {
+    "id": 97,
+    "titre": "Réforme du cassoulet",
+    "effet": "Tu proposes une AOC électorale pour le cassoulet. +2 PP.",
+    "bonus": "Les Nationalistes du Buffet"
+  },
+  {
+    "id": 98,
+    "titre": "Labourage symbolique",
+    "effet": "Tu plantes une graine pendant ton discours. Annule un malus.",
+    "bonus": "Le Parti du Bon Sens Agricole"
+  },
+  {
+    "id": 99,
+    "titre": "Tournée générale",
+    "effet": "Tous les joueurs gagnent +1 PP sauf le plus riche.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 100,
+    "titre": "Fusion de start-ups",
+    "effet": "Tu crées une alliance entre deux partis technologiques. +2 PP si elle tient un tour.",
+    "bonus": "Les Capitalistes Anonymes"
+  },
+  {
+    "id": 101,
+    "titre": "Vote en peignoir",
+    "effet": "Tu arrives à l’Assemblée en pantoufles. +1 PP si quelqu’un t’imite.",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 102,
+    "titre": "Réforme du vin rouge",
+    "effet": "Tu proposes un référendum œnologique. +2 PP.",
+    "bonus": "Les Nationalistes du Buffet"
+  },
+  {
+    "id": 103,
+    "titre": "Réforme du Wi-Fi sacré",
+    "effet": "Tu proposes une loi pour sanctifier les zones sans réseau. +2 PP.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 104,
+    "titre": "Réforme du barbecue",
+    "effet": "Tu proposes une loi sur les saucisses électorales. +2 PP si quelqu’un a faim.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 105,
+    "titre": "Saucisson diplomatique",
+    "effet": "Tu négocies une alliance autour d’un plateau de charcuterie. +2 PP.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 106,
+    "titre": "Mémoire populaire",
+    "effet": "Tu rejoues une carte Action déjà utilisée. +1 PP.",
+    "bonus": "Le Parti de la Mémoire Collective"
+  },
+  {
+    "id": 107,
+    "titre": "Ironie stratégique",
+    "effet": "Tu transformes un bonus en malus (et inversement).",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 108,
+    "titre": "Réforme du sommeil",
+    "effet": "Tu proposes des siestes obligatoires. +2 PP si quelqu’un s’endort.",
+    "bonus": "Le Parti du Divin Ordinateur"
+  },
+  {
+    "id": 109,
+    "titre": "Réforme du silence",
+    "effet": "Tu proposes de ne plus parler en politique. +1 PP si personne ne proteste.",
+    "bonus": "Le Parti des Anarchistes Unis"
+  },
+  {
+    "id": 110,
+    "titre": "Slogan compostable",
+    "effet": "Tu proposes une réforme biodégradable. +2 PP.",
+    "bonus": "Les Croisés du Progrès Écologique"
+  },
+  {
+    "id": 111,
+    "titre": "Baiser diplomatique",
+    "effet": "Tu embrasses un adversaire en direct. +1 PP si ça devient un mème.",
+    "bonus": "Les Libertins Républicains"
+  },
+  {
+    "id": 112,
+    "titre": "Réforme du fromage fondu",
+    "effet": "Tu proposes une loi sur la raclette obligatoire. +2 PP si quelqu’un salive.",
+    "bonus": "Les Nationalistes du Buffet"
+  },
+  {
+    "id": 113,
+    "titre": "Chaos organisé",
+    "effet": "Tu déclares que tout est sous contrôle… puis tu renverses la table. +1 PP.",
+    "bonus": "Le Parti des Anarchistes Unis"
+  },
+  {
+    "id": 114,
+    "titre": "Réforme du rire",
+    "effet": "Tu proposes que chaque loi soit drôle. +2 PP si quelqu’un rit.",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 115,
+    "titre": "Vote en vers libres",
+    "effet": "Tu votes en poésie. +2 PP si quelqu’un t’applaudit.",
+    "bonus": "Les Éveillés de la Lune"
+  },
+  {
+    "id": 116,
+    "titre": "Réforme du barbecue",
+    "effet": "Tu proposes une loi sur les saucisses électorales. +2 PP si quelqu’un a faim.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+
+  {
+    "id": 117,
+    "titre": "Grève des discours",
+    "effet": "Tu refuses de parler pendant un tour. +1 PP si personne ne te provoque.",
+    "bonus": "Le Parti du Marteau & du Chiffon"
+  },
+  {
+    "id": 118,
+    "titre": "Buffet électoral",
+    "effet": "Tu proposes une réforme gastronomique. +1 PP si tu manges en jouant.",
+    "bonus": "Les Nationalistes du Buffet"
+  },
+  {
+    "id": 119,
+    "titre": "Réforme du vote par emoji",
+    "effet": "Tu proposes un système de vote basé sur les smileys. +2 PP si quelqu’un comprend.",
+    "bonus": "Le Parti du Divin Ordinateur"
+  },
+  {
+    "id": 120,
+    "titre": "Compromis en réunion brunch",
+    "effet": "Tu proposes une réforme entre deux œufs brouillés. +1 PP si quelqu’un accepte.",
+    "bonus": "La République du Centre Mou"
+  },
+  {
+    "id": 121,
+    "titre": "Autodérision stratégique",
+    "effet": "Tu te moques de ton propre programme. +1 PP si tu fais rire.",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 122,
+    "titre": "Réplique égalitaire",
+    "effet": "Tu doubles l’effet d’une carte qui cible ton genre.",
+    "bonus": "Les Féministes Révolutionnaires"
+  },
+  {
+    "id": 123,
+    "titre": "Implant électoral",
+    "effet": "Tu proposes de voter par puce cérébrale. +3 PP si personne ne panique.",
+    "bonus": "Les Transhumanistes Fous"
+  },
+  {
+    "id": 124,
+    "titre": "Tweet de vérité",
+    "effet": "Tu annules une carte Action contenant un mensonge.",
+    "bonus": "Le Parti de la Vérité Suprême"
+  },
+  {
+    "id": 125,
+    "titre": "Buffet patriotique",
+    "effet": "Tu organises un banquet électoral. +1 PP si tu manges en jouant.",
+    "bonus": "Les Nationalistes du Buffet"
+  },
+  {
+    "id": 126,
+    "titre": "Réforme du vote par sieste",
+    "effet": "Tu proposes de voter après une sieste. +2 PP si quelqu’un s’endort.",
+    "bonus": "Le Parti du Divin Ordinateur"
+  },
+  {
+    "id": 127,
+    "titre": "Sarcasme universel",
+    "effet": "Tu te moques de tous les partis en direct. -2 PP si quelqu’un se vexe.",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 128,
+    "titre": "Fusion neuronale",
+    "effet": "Tu proposes de connecter les cerveaux des électeurs. +2 PP si personne ne fuit.",
+    "bonus": "Les Transhumanistes Fous"
+  },
+  {
+    "id": 129,
+    "titre": "Réforme du vote par chant",
+    "effet": "Tu votes en chantant l’hymne. +1 PP si quelqu’un t’accompagne.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 130,
+    "titre": "Réforme du vote par pastis",
+    "effet": "Tu proposes un référendum à l’apéro. +2 PP si quelqu’un trinque.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 131,
+    "titre": "Réforme du vote par hologramme",
+    "effet": "Tu apparais en 3D pour voter. +2 PP si ton avatar est stylé.",
+    "bonus": "Les Transhumanistes Fous"
+  },
+  {
+    "id": 132,
+    "titre": "Buffet patriotique",
+    "effet": "Tu organises un banquet électoral. +1 PP si tu manges en jouant.",
+    "bonus": "Les Nationalistes du Buffet"
+  },
+  {
+    "id": 133,
+    "titre": "Réforme du vote par méditation",
+    "effet": "Tu proposes de voter en pleine conscience. +2 PP si quelqu’un médite.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 134,
+    "titre": "Labourage électoral",
+    "effet": "Tu annules un effet en touchant de la terre. +1 PP.",
+    "bonus": "Le Parti du Bon Sens Agricole"
+  },
+  {
+    "id": 135,
+    "titre": "Vote pyramidal",
+    "effet": "Tu proposes un système électoral basé sur l’énergie des cristaux. +2 PP si personne ne rit.",
+    "bonus": "Les Illuminés Complotistes"
+  },
+  {
+    "id": 136,
+    "titre": "Séduction électorale",
+    "effet": "Tu fais un clin d’œil à la caméra. Vole 1 PP si tu fais rire.",
+    "bonus": "Les Libertins Républicains"
+  },
+  {
+    "id": 137,
+    "titre": "Réforme du vote par barbecue",
+    "effet": "Tu proposes une loi sur les saucisses électorales. +2 PP si quelqu’un a faim.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 138,
+    "titre": "Réforme du vote par silence",
+    "effet": "Tu proposes de ne plus parler en politique. +1 PP si personne ne proteste.",
+    "bonus": "Le Parti des Anarchistes Unis"
+  },
+  {
+    "id": 139,
+    "titre": "Réforme du vote par vers libres",
+    "effet": "Tu votes en poésie. +2 PP si quelqu’un t’applaudit.",
+    "bonus": "Les Éveillés de la Lune"
+  },
+  {
+    "id": 140,
+    "titre": "Slogan biodégradable",
+    "effet": "Tu lances un message écolo qui se dissout dans l’air. +2 PP.",
+    "bonus": "Les Croisés du Progrès Écologique"
+  },
+  {
+    "id": 141,
+    "titre": "Réforme du vote par sarcasme",
+    "effet": "Tu proposes une loi absurde mais populaire. +2 PP.",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 142,
+    "titre": "Mémoire populaire",
+    "effet": "Tu rejoues une carte Action déjà utilisée. +1 PP.",
+    "bonus": "Le Parti de la Mémoire Collective"
+  },
+  {
+    "id": 143,
+    "titre": "Miracle fiscal",
+    "effet": "Tu transformes une dette en bénédiction. +2 PP.",
+    "bonus": "Le Parti Royal & Divin"
+  },
+  {
+    "id": 144,
+    "titre": "Compromis liquide",
+    "effet": "Tu changes d’avis trois fois en une phrase. +1 PP.",
+    "bonus": "La République du Centre Mou"
+  },
+  {
+    "id": 145,
+    "titre": "Chaos organisé",
+    "effet": "Tu déclares que tout est sous contrôle… puis tu renverses la table. +1 PP.",
+    "bonus": "Le Parti des Anarchistes Unis"
+  },
+  {
+    "id": 146,
+    "titre": "Réquisition populaire",
+    "effet": "Tu voles 1 PP à chaque voisin si l’État est en crise.",
+    "bonus": "Le Parti du Marteau & du Chiffon"
+  },
+  {
+    "id": 147,
+    "titre": "Réforme du vote par hologramme",
+    "effet": "Tu apparais en 3D pour voter. +2 PP si ton avatar est stylé.",
+    "bonus": "Les Transhumanistes Fous"
+  },
+  {
+    "id": 148,
+    "titre": "Mise à jour politique",
+    "effet": "Tu installes un patch démocratique. +3 PP si la carte est technologique.",
+    "bonus": "Les Transhumanistes Fous"
+  },
+  {
+    "id": 149,
+    "titre": "Réforme du vote par chant",
+    "effet": "Tu votes en chantant l’hymne. +1 PP si quelqu’un t’accompagne.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 150,
+    "titre": "Loi lunaire",
+    "effet": "Tu proposes une réforme basée sur les phases lunaires. +2 PP.",
+    "bonus": "Les Éveillés de la Lune"
+  },
+  {
+    "id": 151,
+    "titre": "Réplique féministe",
+    "effet": "Tu doubles l’effet d’une carte qui cible ton genre.",
+    "bonus": "Les Féministes Révolutionnaires"
+  },
+  {
+    "id": 152,
+    "titre": "Réforme du vote par pastis",
+    "effet": "Tu proposes un référendum à l’apéro. +2 PP si quelqu’un trinque.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 153,
+    "titre": "Réforme du vote par barbecue",
+    "effet": "Tu proposes une loi sur les saucisses électorales. +2 PP si quelqu’un a faim.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 154,
+    "titre": "Séduction électorale",
+    "effet": "Tu fais un clin d’œil à la caméra. Vole 1 PP si tu fais rire.",
+    "bonus": "Les Libertins Républicains"
+  },
+  {
+    "id": 155,
+    "titre": "Réforme du vote par hologramme",
+    "effet": "Tu apparais en 3D pour voter. +2 PP si ton avatar est stylé.",
+    "bonus": "Les Transhumanistes Fous"
+  },
+  {
+    "id": 156,
+    "titre": "Réforme du vote par méditation",
+    "effet": "Tu proposes de voter en pleine conscience. +2 PP si quelqu’un médite.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 157,
+    "titre": "Réforme du vote par silence",
+    "effet": "Tu proposes de ne plus parler en politique. +1 PP si personne ne proteste.",
+    "bonus": "Le Parti des Anarchistes Unis"
+  },
+  {
+    "id": 158,
+    "titre": "Miracle fiscal",
+    "effet": "Tu transformes une dette en bénédiction. +2 PP.",
+    "bonus": "Le Parti Royal & Divin"
+  },
+  {
+    "id": 159,
+    "titre": "Réforme du vote par chant",
+    "effet": "Tu votes en chantant l’hymne. +1 PP si quelqu’un t’accompagne.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 160,
+    "titre": "Rachat électoral",
+    "effet": "Tu achètes une carte Action à un autre joueur contre 2 PP.",
+    "bonus": "Les Capitalistes Anonymes"
+  },
+  {
+    "id": 161,
+    "titre": "Réforme du vote par vers libres",
+    "effet": "Tu votes en poésie. +2 PP si quelqu’un t’applaudit.",
+    "bonus": "Les Éveillés de la Lune"
+  },
+  {
+    "id": 162,
+    "titre": "Saucisson diplomatique",
+    "effet": "Tu négocies une alliance autour d’un plateau de charcuterie. +2 PP.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 163,
+    "titre": "Hack du programme",
+    "effet": "Tu modifies une carte Action en ta faveur. +2 PP.",
+    "bonus": "Les Pirates du Savoir"
+  },
+  {
+    "id": 164,
+    "titre": "Discours algorithmique",
+    "effet": "Tu laisses une IA rédiger ton programme. +2 PP si personne ne remarque.",
+    "bonus": "Le Parti du Divin Ordinateur"
+  },
+  {
+    "id": 165,
+    "titre": "Réforme du vote par pastis",
+    "effet": "Tu proposes un référendum à l’apéro. +2 PP si quelqu’un trinque.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 166,
+    "titre": "Réforme du vote par barbecue",
+    "effet": "Tu proposes une loi sur les saucisses électorales. +2 PP si quelqu’un a faim.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 167,
+    "titre": "Réforme du vote par hologramme",
+    "effet": "Tu apparais en 3D pour voter. +2 PP si ton avatar est stylé.",
+    "bonus": "Les Transhumanistes Fous"
+  },
+  {
+    "id": 168,
+    "titre": "Réforme du vote par méditation",
+    "effet": "Tu proposes de voter en pleine conscience. +2 PP si quelqu’un médite.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 169,
+    "titre": "Compromis liquide",
+    "effet": "Tu changes d’avis trois fois en une phrase. +1 PP.",
+    "bonus": "La République du Centre Mou"
+  },
+  {
+    "id": 170,
+    "titre": "Chaos organisé",
+    "effet": "Tu déclares que tout est sous contrôle… puis tu renverses la table. +1 PP.",
+    "bonus": "Le Parti des Anarchistes Unis"
+  },
+  {
+    "id": 171,
+    "titre": "Réforme du vote par chant",
+    "effet": "Tu votes en chantant l’hymne. +1 PP si quelqu’un t’accompagne.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 172,
+    "titre": "Réforme du vote par silence",
+    "effet": "Tu proposes de ne plus parler en politique. +1 PP si personne ne proteste.",
+    "bonus": "Le Parti des Anarchistes Unis"
+  },
+  {
+    "id": 173,
+    "titre": "Réforme du vote par vers libres",
+    "effet": "Tu votes en poésie. +2 PP si quelqu’un t’applaudit.",
+    "bonus": "Les Éveillés de la Lune"
+  },
+  {
+    "id": 174,
+    "titre": "Karma électoral",
+    "effet": "Redistribue les PP de tous les joueurs à égalité.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 175,
+    "titre": "Réforme du vote par pastis",
+    "effet": "Tu proposes un référendum à l’apéro. +2 PP si quelqu’un trinque.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 176,
+    "titre": "Rachat électoral",
+    "effet": "Tu achètes une carte Action à un autre joueur contre 2 PP.",
+    "bonus": "Les Capitalistes Anonymes"
+  },
+  {
+    "id": 177,
+    "titre": "Vote quantique",
+    "effet": "Tu votes pour deux partis à la fois. +2 PP si personne ne t’arrête.",
+    "bonus": "Les Illuminés Complotistes"
+  },
+  {
+    "id": 178,
+    "titre": "Résurrection démocratique",
+    "effet": "Tu reviens après avoir été éliminé. +2 PP si tu changes de slogan.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 179,
+    "titre": "Slogan biodégradable",
+    "effet": "Tu proposes une réforme biodégradable. +2 PP.",
+    "bonus": "Les Croisés du Progrès Écologique"
+  },
+  {
+    "id": 180,
+    "titre": "Réforme du vote par hologramme",
+    "effet": "Tu apparais en 3D pour voter. +2 PP si ton avatar est stylé.",
+    "bonus": "Les Transhumanistes Fous"
+  },
+  {
+    "id": 181,
+    "titre": "Réforme du vote par méditation",
+    "effet": "Tu proposes de voter en pleine conscience. +2 PP si quelqu’un médite.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 182,
+    "titre": "Toucher de terre",
+    "effet": "Tu annules un effet en touchant du sol. +1 PP.",
+    "bonus": "Le Parti du Bon Sens Agricole"
+  },
+  {
+    "id": 183,
+    "titre": "Ironie stratégique",
+    "effet": "Tu transformes un bonus en malus (et inversement).",
+    "bonus": "Les Cyniques Sans Frontières"
+  },
+  {
+    "id": 184,
+    "titre": "Upgrade technologique",
+    "effet": "Tu transformes une carte Action en +3 PP si elle est technologique.",
+    "bonus": "Les Transhumanistes Fous"
+  },
+  {
+    "id": 185,
+    "titre": "Oracle numérique",
+    "effet": "Lance un dé, si pair > double l’effet.",
+    "bonus": "Le Parti du Divin Ordinateur"
+  },
+  {
+    "id": 186,
+    "titre": "Archivage stratégique",
+    "effet": "Rejoue une carte Action déjà jouée.",
+    "bonus": "Le Parti de la Mémoire Collective"
+  },
+  {
+    "id": 187,
+    "titre": "Miracle fiscal",
+    "effet": "Transforme un malus en bonus une fois par partie.",
+    "bonus": "Le Parti Royal & Divin"
+  },
+  {
+    "id": 188,
+    "titre": "Réquisition populaire",
+    "effet": "Vole 1 PP à chaque voisin si l’État est en crise.",
+    "bonus": "Le Parti du Marteau & du Chiffon"
+  },
+  {
+    "id": 189,
+    "titre": "Inversion mystique",
+    "effet": "Échange ton PP avec celui d’un joueur au hasard.",
+    "bonus": "Les Illuminés Complotistes"
+  },
+  {
+    "id": 190,
+    "titre": "Piratage électoral",
+    "effet": "Copie une carte Action d’un autre joueur.",
+    "bonus": "Les Pirates du Savoir"
+  },
+  {
+    "id": 191,
+    "titre": "Chaos électoral",
+    "effet": "Tous les joueurs perdent 1 PP sauf toi.",
+    "bonus": "Le Parti des Anarchistes Unis"
+  },
+  {
+    "id": 192,
+    "titre": "Réforme du vote par slip tricolore",
+    "effet": "Tu votes en tenue patriotique minimaliste. +1 PP si personne ne s’offusque.",
+    "bonus": "Les Nationalistes du Buffet"
+  },
+  {
+    "id": 193,
+    "titre": "Réplique féministe",
+    "effet": "Double l’effet d’une carte Action si elle cible ton genre.",
+    "bonus": "Les Féministes Révolutionnaires"
+  },
+  {
+    "id": 194,
+    "titre": "Buffet électoral",
+    "effet": "Tu proposes une réforme gastronomique. +1 PP si tu manges en jouant.",
+    "bonus": "Les Nationalistes du Buffet"
+  },
+  {
+    "id": 195,
+    "titre": "Tweet incendiaire",
+    "effet": "Tu insultes un autre parti en 280 caractères. +1 PP si ça devient viral.",
+    "bonus": "Le Parti de la Vérité Suprême"
+  },
+  {
+    "id": 196,
+    "titre": "Réforme du vote par hologramme",
+    "effet": "Tu apparais en 3D pour voter. +2 PP si ton avatar est stylé.",
+    "bonus": "Les Transhumanistes Fous"
+  },
+  {
+    "id": 197,
+    "titre": "Réforme du vote par barbecue",
+    "effet": "Tu proposes une loi sur les saucisses électorales. +2 PP si quelqu’un a faim.",
+    "bonus": "Le Parti du Pastis Populaire"
+  },
+  {
+    "id": 198,
+    "titre": "Loi lunaire",
+    "effet": "Tu proposes une réforme basée sur les phases lunaires. +2 PP.",
+    "bonus": "Les Éveillés de la Lune"
+  },
+  {
+    "id": 199,
+    "titre": "Réforme du vote par méditation",
+    "effet": "Tu proposes de voter en pleine conscience. +2 PP si quelqu’un médite.",
+    "bonus": "Les Croyants du Grand Réveil"
+  },
+  {
+    "id": 200,
+    "titre": "Compromis liquide",
+    "effet": "Tu changes d’avis trois fois en une phrase. +1 PP.",
+    "bonus": "La République du Centre Mou"
+  }
+]

@@ -1,0 +1,155 @@
+/* === STYLE GLOBAL === */
+body {
+  font-family: "Poppins", "Segoe UI", sans-serif;
+  background: linear-gradient(135deg, #fdf6e3, #f2e8c9);
+  margin: 0;
+  padding: 0;
+  color: #333;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* === EN-TÊTE === */
+header {
+  background: linear-gradient(90deg, #2e8b57, #3da16b);
+  color: white;
+  padding: 1.5em 0;
+  text-align: center;
+  font-size: 1.8em;
+  font-weight: bold;
+  letter-spacing: 1px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* === CONTENU PRINCIPAL === */
+main {
+  flex: 1;
+  padding: 2em;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* === BLOCS === */
+section {
+  margin-bottom: 2em;
+  background: white;
+  border-radius: 12px;
+  padding: 1.5em;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease-in-out;
+}
+
+section:hover {
+  transform: translateY(-3px);
+}
+
+/* === BOUTONS === */
+button {
+  padding: 0.7em 1.4em;
+  margin: 0.5em;
+  background: linear-gradient(135deg, #2e8b57, #3da16b);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1em;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+  transition: all 0.2s ease;
+}
+
+button:hover {
+  background: linear-gradient(135deg, #246b45, #2e8b57);
+  transform: translateY(-2px);
+}
+
+/* === ÉTAT DE JEU === */
+#etat-jeu {
+  background: #fffef5;
+  border: 2px solid #e4cf8a;
+  border-radius: 8px;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  box-shadow: inset 0 0 8px rgba(255, 215, 0, 0.2);
+}
+
+#etat-jeu p {
+  margin: 0.5em 0;
+  font-size: 1.1em;
+}
+
+/* === FICHES JOUEURS === */
+.grille-joueurs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.fiche-joueur {
+  border: 2px solid #ccc;
+  border-radius: 15px;
+  padding: 1.2rem;
+  width: 320px;
+  background: #f9f9f9;
+  transition: 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+.fiche-joueur:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+}
+
+.fiche-joueur.actif {
+  border-color: #ffd700;
+  background: #fffbea;
+  box-shadow: 0 0 15px rgba(255, 215, 0, 0.6);
+}
+
+.fiche-joueur h3 {
+  margin: 0;
+  font-size: 1.3em;
+  color: #2e8b57;
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 0.3em;
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+
+.fiche-joueur h4 {
+  color: #555;
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 0.8em;
+}
+
+.fiche-joueur p {
+  margin: 0.4em 0;
+  font-size: 0.95em;
+  line-height: 1.4em;
+}
+
+.fiche-joueur strong {
+  color: #2e8b57;
+}
+
+/* Badge pour le PP */
+.fiche-joueur .pp-badge {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  background: #2e8b57;
+  color: white;
+  font-weight: bold;
+  padding: 0.4em 0.7em;
+  border-radius: 50%;
+  font-size: 1em;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+}
+
+/* === ZONE DE RÉSULTATS (cartes tirées) === */
+#resultat {
+  background: #fff;

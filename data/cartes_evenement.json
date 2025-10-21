@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "titre": "Bug du vote quantique",
+    "effet": "-2 PP pour les Technocrates & Transhumanistes",
+    "description": "Lors d’un scrutin automatisé, l’algorithme élit un grille-pain. Les électeurs applaudissent par confusion."
+  },
+  {
+    "id": 2,
+    "titre": "Congrès des IA bienveillantes",
+    "effet": "+2 PP pour les Technocrates & Transhumanistes",
+    "description": "Les robots proposent une réforme du langage politique en emojis. Le public applaudit sans comprendre."
+  },
+  {
+    "id": 3,
+    "titre": "Piratage du cloud gouvernemental",
+    "effet": "+2 PP pour les Technocrates & Transhumanistes",
+    "description": "Tous les discours officiels sont remplacés par des vidéos de chats. Les citoyens sont plus heureux."
+  },
+  {
+    "id": 4,
+    "titre": "Bug de reconnaissance faciale",
+    "effet": "-2 PP pour les Technocrates & Transhumanistes",
+    "description": "Le système confond les leaders avec des influenceurs beauté. Les débats deviennent des tutoriels maquillage."
+  },
+  {
+    "id": 5,
+    "titre": "Téléportation fiscale",
+    "effet": "+2 PP pour les Technocrates & Transhumanistes",
+    "description": "Les impôts disparaissent dans une autre dimension. Le ministre des finances se dit 'spirituellement serein'."
+  },
+  {
+    "id": 6,
+    "titre": "Congrès des start-ups politiques",
+    "effet": "+2 PP pour les Technocrates & Transhumanistes",
+    "description": "Chaque parti propose une app pour gouverner. Les bugs deviennent des lois."
+  },
+  {
+    "id": 7,
+    "titre": "Bug du GPS électoral",
+    "effet": "-2 PP pour les Technocrates & Transhumanistes",
+    "description": "Les électeurs se perdent et votent dans des boulangeries. Le taux de satisfaction grimpe."
+  },
+  {
+    "id": 8,
+    "titre": "Plan de relance par NFT",
+    "effet": "+2 PP pour les Technocrates & Transhumanistes",
+    "description": "Le gouvernement vend des NFT de ministres pour financer l’éducation. Les enfants apprennent à spéculer."
+  },
+  {
+    "id": 9,
+    "titre": "Émeute des robots municipaux",
+    "effet": "-2 PP pour les Technocrates & Transhumanistes",
+    "description": "Les robots-poubelles réclament le droit de grève. Le maire négocie avec une imprimante."
+  },
+  {
+    "id": 10,
+    "titre": "Réforme du sommeil algorithmique",
+    "effet": "+2 PP pour les Technocrates & Transhumanistes",
+    "description": "Les citoyens dorment selon les recommandations d’une IA. Le taux de rêve politique augmente."
+  },
+  {
+    "id": 11,
+    "titre": "Rituel de bénédiction des urnes",
+    "effet": "+2 PP pour les Écolos & Spiritualistes",
+    "description": "Les électeurs chantent en déposant leur bulletin, entourés de cristaux et d’encens. La salle de vote devient un temple."
+  },
+  {
+    "id": 12,
+    "titre": "Méditation parlementaire collective",
+    "effet": "+2 PP pour les Écolos & Spiritualistes",
+    "description": "Tous les députés ferment les yeux pendant 10 minutes pour 'réaligner les chakras de la nation'. Le président du Sénat s’endort."
+  },
+  {
+    "id": 13,
+    "titre": "Panne de réseau spirituel",
+    "effet": "-2 PP pour les Écolos & Spiritualistes",
+    "description": "Les prières numériques ne sont plus synchronisées, provoquant une crise mystique. Les électeurs se tournent vers les pigeons voyageurs."
+  },
+  {
+    "id": 14,
+    "titre": "Pluie de pétales sur le Parlement",
+    "effet": "+2 PP pour les Écolos & Spiritualistes",
+    "description": "Un groupe spirituel célèbre l’amour universel en bombardant les élus de fleurs. Les débats deviennent poétiques."
+  },
+  {
+    "id": 15,
+    "titre": "Rituel de purification agricole",
+    "effet": "+2 PP pour les Écolos & Spiritualistes",
+    "description": "Les champs sont bénis à la lavande avant les élections. Les tracteurs roulent en silence."
+  },
+  {
+    "id": 16,
+    "titre": "Méditation parlementaire interrompue par une alarme incendie",
+    "effet": "-2 PP pour les Écolos & Spiritualistes",
+    "description": "Les chakras sont perturbés par une sirène stridente. Le ministre de l’intérieur pleure de frustration."
+  },
+  {
+    "id": 17,
+    "titre": "Réseau de prières piraté",
+    "effet": "-2 PP pour les Écolos & Spiritualistes",
+    "description": "Un hacker remplace les mantras par des jingles publicitaires. Les fidèles chantent 'Achetez maintenant' en boucle."
+  },
+  {
+    "id": 18,
+    "titre": "Congrès des druides électoraux",
+    "effet": "+2 PP pour les Écolos & Spiritualistes",
+    "description": "Des sages en toges proposent une réforme basée sur les phases lunaires. Le calendrier électoral devient un zodiaque."
+  },
+  {
+    "id": 19,
+    "titre": "Festival du karma politique",
+    "effet": "+2 PP pour les Écolos & Spiritualistes",
+    "description": "Les candidats doivent méditer sur leurs erreurs passées. Certains disparaissent dans une retraite silencieuse."
+  },
+  {
+    "id": 20,
+    "titre": "Panne de compost électoral",
+    "effet": "-2 PP pour les Écolos & Spiritualistes",
+    "description": "Les bulletins biodégradables se décomposent avant le dépouillement. Le ministère de l’environnement parle de 'vote organique'."
+  },
+  {
+    "id": 21,
+    "titre": "Débat sur la souveraineté du cassoulet",
+    "effet": "+2 PP pour les Populistes & Nationalistes",
+    "description": "Le plat devient un symbole national et les candidats s’affrontent sur sa recette. Le ministère de la Culture propose une AOC électorale."
+  },
+  {
+    "id": 22,
+    "titre": "Campagne “France d’abord, sauf le lundi”",
+    "effet": "-2 PP pour les Populistes & Nationalistes",
+    "description": "Les slogans se contredisent et les électeurs ne savent plus quand voter. Le porte-parole déclare que “le flou est stratégique”."
+  },
+  {
+    "id": 23,
+    "titre": "Manifestation en hologramme patriotique",
+    "effet": "+2 PP pour les Populistes & Nationalistes",
+    "description": "Des drapeaux flottent dans le vide et chantent la Marseillaise en boucle. Les passants prennent des selfies avec la République virtuelle."
+  },
+  {
+    "id": 24,
+    "titre": "Référendum sur le drapeau national",
+    "effet": "-2 PP pour les Populistes & Nationalistes",
+    "description": "Le peuple choisit un emoji comme emblème. Le débat dégénère en guerre des smileys."
+  },
+  {
+    "id": 25,
+    "titre": "Congrès du camembert souverain",
+    "effet": "+2 PP pour les Populistes & Nationalistes",
+    "description": "Le fromage devient un enjeu géopolitique. Le président propose un traité de non-agression entre les régions."
+  },
+  {
+    "id": 26,
+    "titre": "Débat sur les frontières du pain au chocolat",
+    "effet": "-2 PP pour les Populistes & Nationalistes",
+    "description": "Le chocolat devient un sujet de division nationale. Les régions se menacent de boycott pâtissier."
+  },
+  {
+    "id": 27,
+    "titre": "Émeute patriotique dans une cantine",
+    "effet": "+2 PP pour les Populistes & Nationalistes",
+    "description": "Des militants envahissent un buffet républicain en criant “Sauvez le gratin dauphinois !”. Le ministre de l’Intérieur fuit par la cuisine."
+  },
+  {
+    "id": 28,
+    "titre": "Campagne “Un drapeau, une frite”",
+    "effet": "+2 PP pour les Populistes & Nationalistes",
+    "description": "Les électeurs reçoivent des frites tricolores. Le taux de cholestérol devient un indicateur électoral."
+  },
+  {
+    "id": 29,
+    "titre": "Débat sur la souveraineté du vin rouge",
+    "effet": "+2 PP pour les Populistes & Nationalistes",
+    "description": "Le pinard devient un symbole national. Le ministre de l’Agriculture propose un référendum œnologique."
+  },
+  {
+    "id": 30,
+    "titre": "Panne de patriotisme algorithmique",
+    "effet": "-2 PP pour les Populistes & Nationalistes",
+    "description": "L’application officielle refuse de reconnaître les frontières. Les électeurs se retrouvent citoyens d’un pays imaginaire."
+  },
+  {
+    "id": 31,
+    "titre": "Révolution silencieuse",
+    "effet": "+2 PP pour les Révolutionnaires & Anarchistes",
+    "description": "Les insurgés décident de ne plus parler, ni crier, ni tweeter. Le gouvernement panique devant ce calme insoutenable."
+  },
+  {
+    "id": 32,
+    "titre": "Réunion révolutionnaire annulée pour cause de brunch",
+    "effet": "-2 PP pour les Révolutionnaires & Anarchistes",
+    "description": "Les leaders de la contestation préfèrent les œufs brouillés aux barricades. Le peuple hésite entre grève et mimosa."
+  },
+  {
+    "id": 33,
+    "titre": "Révolte des syndicats du pastis",
+    "effet": "+2 PP pour les Révolutionnaires & Anarchistes",
+    "description": "Les bars ferment en signe de protestation contre la réforme de l’apéro. Les manifestants brandissent des saucissons comme étendards."
+  },
+  {
+    "id": 34,
+    "titre": "Réunion révolutionnaire dans une yourte",
+    "effet": "-2 PP pour les Révolutionnaires & Anarchistes",
+    "description": "Les idées circulent en rond pendant des heures. Le porte-parole finit par proposer une sieste collective."
+  },
+  {
+    "id": 35,
+    "titre": "Révolution TikTok",
+    "effet": "+2 PP pour les Révolutionnaires & Anarchistes",
+    "description": "Un appel à la grève devient viral grâce à une chorégraphie en pyjama. Le ministère de l’intérieur tente de reproduire les pas."
+  },
+  {
+    "id": 36,
+    "titre": "Réunion révolutionnaire dans une grotte",
+    "effet": "+2 PP pour les Révolutionnaires & Anarchistes",
+    "description": "Les insurgés s’isolent pour “reconnecter avec l’essence du soulèvement”. Le Wi-Fi ne passe pas, mais les idées fusent."
+  },
+  {
+    "id": 37,
+    "titre": "Grève des bibliothécaires révolutionnaires",
+    "effet": "-2 PP pour les Révolutionnaires & Anarchistes",
+    "description": "Les archives de la révolution sont bloquées par des pancartes en alexandrins. Les manifestants lisent à voix haute pour protester."
+  },
+  {
+    "id": 38,
+    "titre": "Réunion révolutionnaire dans une bibliothèque",
+    "effet": "+2 PP pour les Révolutionnaires & Anarchistes",
+    "description": "Les insurgés lisent des manifestes entre deux rayons. Le silence devient une arme politique."
+  },
+  {
+    "id": 39,
+    "titre": "Réunion révolutionnaire dans un hammam",
+    "effet": "-2 PP pour les Révolutionnaires & Anarchistes",
+    "description": "Les idées fondent dans la vapeur. Le chef du mouvement perd son discours dans les brumes."
+  },
+  {
+    "id": 40,
+    "titre": "Réunion révolutionnaire dans un parc d’attractions",
+    "effet": "+2 PP pour les Révolutionnaires & Anarchistes",
+    "description": "Les leaders débattent sur des montagnes russes. Les slogans sont criés dans les descentes."
+  },
+  {
+    "id": 41,
+    "titre": "Festival du sarcasme politique",
+    "effet": "+2 PP pour les Cyniques & Satiristes",
+    "description": "Un congrès de stand-up politique fait exploser les réseaux. Les électeurs votent pour le plus drôle."
+  },
+  {
+    "id": 42,
+    "titre": "Conférence sur le nihilisme joyeux",
+    "effet": "-2 PP pour les Cyniques & Satiristes",
+    "description": "“Tout est foutu, mais avec style” devient le slogan officiel. Le ministre du désespoir est ovationné."
+  },
+  {
+    "id": 43,
+    "titre": "Débat en langage des mèmes",
+    "effet": "+2 PP pour les Cyniques & Satiristes",
+    "description": "Les candidats ne parlent qu’en GIFs et hashtags. Le public rit, puis pleure, puis vote."
+  },
+  {
+    "id": 44,
+    "titre": "Congrès du sarcasme intergalactique",
+    "effet": "+2 PP pour les Cyniques & Satiristes",
+    "description": "Des aliens rient de nos lois et proposent une réforme basée sur l’ironie cosmique. Le président répond par un jeu de mots."
+  },
+  {
+    "id": 45,
+    "titre": "Salon du sarcasme en pyjama",
+    "effet": "+2 PP pour les Cyniques & Satiristes",
+    "description": "Les leaders débattent en pantoufles et peignoirs. Le confort devient une idéologie."
+  },
+  {
+    "id": 46,
+    "titre": "Festival du rire politique",
+    "effet": "+2 PP pour les Cyniques & Satiristes",
+    "description": "Les électeurs votent pour le plus absurde des candidats. Le gagnant promet de ne rien faire, mais avec panache."
+  },
+  {
+    "id": 47,
+    "titre": "Congrès du sarcasme universel",
+    "effet": "-2 PP pour les Cyniques & Satiristes",
+    "description": "Tous les partis se moquent d’eux-mêmes en direct. Le public demande un replay."
+  },
+  {
+    "id": 48,
+    "titre": "Débat sur la sincérité des clowns",
+    "effet": "-2 PP pour les Cyniques & Satiristes",
+    "description": "Les candidats doivent prouver qu’ils ne sont pas des clowns… en costume de clown. Le jury rit, puis démissionne."
+  },
+  {
+    "id": 49,
+    "titre": "Censure bienveillante",
+    "effet": "-2 PP pour les Cyniques & Satiristes",
+    "description": "Le gouvernement interdit tout ce qui le dérange, au nom de la liberté. Les citoyens applaudissent… ironiquement."
+  },
+  {
+    "id": 50,
+    "titre": "Talk-show toxique",
+    "effet": "-2 PP pour les Cyniques & Satiristes",
+    "description": "Les candidats crient plus fort que les animateurs. Le public vote pour le plus bruyant."
+  }
+]

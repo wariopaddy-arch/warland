@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1,
+    "nom": "Le Parti du Marteau & du Chiffon",
+    "leader": "Joseph Staline",
+    "ideologie": "Extrême gauche autoritaire",
+    "slogan": "Un camarade, une pelle, un avenir radieux.",
+    "categorie": "Populistes & Nationalistes",
+    "pouvoir": "Vole 1 PP à chaque voisin quand l'État est en crise",
+    "cartes_evenement": [1, 44],
+    "cartes_action": [15, 31, 117, 146, 188]
+  },
+  {
+    "id": 2,
+    "nom": "Les Capitalistes Anonymes",
+    "leader": "Elon Musk",
+    "ideologie": "Ultra-libérale et spatiale",
+    "slogan": "Si ça pollue, c'est que ça marche.",
+    "categorie": "Technocrates & Transhumanistes",
+    "pouvoir": "Échange 2 PP contre une carte Action d'un autre joueur",
+    "cartes_evenement": [2, 64],
+    "cartes_action": [36, 80, 100, 160, 176]
+  },
+  {
+    "id": 3,
+    "nom": "La République du Centre Mou",
+    "leader": "Emmanuel Macron",
+    "ideologie": "Centrisme flottant",
+    "slogan": "Ni de gauche, ni de droite, ni responsable.",
+    "categorie": "Cyniques & Satiristes",
+    "pouvoir": "Copie l'effet d'un autre parti ce tour",
+    "cartes_evenement": [7, 120],
+    "cartes_action": [32, 53, 144, 169, 200]
+  },
+  {
+    "id": 4,
+    "nom": "Le Parti des Anarchistes Unis",
+    "leader": "Mikhaïl Bakounine",
+    "ideologie": "Chaos total",
+    "slogan": "Pas de chef, mais beaucoup d'avis.",
+    "categorie": "Révolutionnaires & Anarchistes",
+    "pouvoir": "Tous les joueurs perdent 1 PP sauf toi",
+    "cartes_evenement": [11, 72],
+    "cartes_action": [4, 113, 145, 170, 191]
+  },
+  {
+    "id": 5,
+    "nom": "Les Croisés du Progrès Écologique",
+    "leader": "Greta Thunberg",
+    "ideologie": "Écolo radical",
+    "slogan": "La planète ou rien.",
+    "categorie": "Écolos & Spiritualistes",
+    "pouvoir": "Annule un malus si tu plantes une graine (symbolique)",
+    "cartes_evenement": [14, 110],
+    "cartes_action": [5, 37, 68, 140, 179]
+  },
+  {
+    "id": 6,
+    "nom": "Le Parti Royal & Divin",
+    "leader": "Louis XIV",
+    "ideologie": "Monarchie absolue",
+    "slogan": "L'État, c'est encore moi.",
+    "categorie": "Écolos & Spiritualistes",
+    "pouvoir": "Transforme un malus en bonus une fois par partie",
+    "cartes_evenement": [6, 143],
+    "cartes_action": [13, 25, 60, 158, 187]
+  },
+  {
+    "id": 7,
+    "nom": "Le Parti de la Vérité Suprême",
+    "leader": "Donald Trump",
+    "ideologie": "Populisme et ego",
+    "slogan": "Make les Fake News Great Again.",
+    "categorie": "Populistes & Nationalistes",
+    "pouvoir": "Annule une carte Action si elle contient un mensonge",
+    "cartes_evenement": [8, 124],
+    "cartes_action": [27, 41, 69, 96, 195]
+  },
+  {
+    "id": 8,
+    "nom": "Les Éveillés de la Lune",
+    "leader": "Salvador Dalí",
+    "ideologie": "Surréaliste et incompréhensible",
+    "slogan": "Je pense donc je rêve.",
+    "categorie": "Cyniques & Satiristes",
+    "pouvoir": "Regarde la prochaine carte Action et décide si elle est jouée",
+    "cartes_evenement": [18, 70],
+    "cartes_action": [2, 39, 115, 150, 198]
+  },
+  {
+    "id": 9,
+    "nom": "Les Féministes Révolutionnaires",
+    "leader": "Simone de Beauvoir",
+    "ideologie": "Égalité et chaos doux",
+    "slogan": "On ne naît pas présidente, on le devient.",
+    "categorie": "Révolutionnaires & Anarchistes",
+    "pouvoir": "Double l'effet d'une carte Action si elle cible ton genre",
+    "cartes_evenement": [19, 122],
+    "cartes_action": [10, 28, 59, 151, 193]
+  },
+  {
+    "id": 10,
+    "nom": "Le Parti des Illuminés Complotistes",
+    "leader": "Alex Jones",
+    "ideologie": "Paranoïa et pyramides énergétiques",
+    "slogan": "Ils veulent ton Wi-Fi et ton âme.",
+    "categorie": "Populistes & Nationalistes",
+    "pouvoir": "Échange ton PP avec celui d'un joueur au hasard",
+    "cartes_evenement": [20, 189],
+    "cartes_action": [18, 43, 61, 77, 135]
+  },
+  {
+    "id": 11,
+    "nom": "Les Nationalistes du Buffet",
+    "leader": "Marine Le Pen",
+    "ideologie": "Fermée mais bien garnie",
+    "slogan": "France d'abord, dessert ensuite.",
+    "categorie": "Populistes & Nationalistes",
+    "pouvoir": "Gagne +1 PP si tu joues une carte en mangeant",
+    "cartes_evenement": [23, 132],
+    "cartes_action": [20, 74, 118, 125, 194]
+  },
+  {
+    "id": 12,
+    "nom": "Le Parti du Bon Sens Agricole",
+    "leader": "José Bové",
+    "ideologie": "Campagnarde et anti-mondialiste",
+    "slogan": "Moins d'OGM, plus de vin.",
+    "categorie": "Écolos & Spiritualistes",
+    "pouvoir": "Annule un effet si tu touches de la terre",
+    "cartes_evenement": [15, 134],
+    "cartes_action": [14, 24, 56, 98, 182]
+  },
+  {
+    "id": 13,
+    "nom": "Les Transhumanistes Fous",
+    "leader": "Ray Kurzweil",
+    "ideologie": "Fusion homme-machine",
+    "slogan": "Pourquoi mourir quand on peut se mettre à jour ?",
+    "categorie": "Technocrates & Transhumanistes",
+    "pouvoir": "Transforme une carte Action en +3 PP si elle est technologique",
+    "cartes_evenement": [3, 128],
+    "cartes_action": [55, 89, 123, 148, 184]
+  },
+  {
+    "id": 14,
+    "nom": "Les Libertins Républicains",
+    "leader": "Giacomo Casanova",
+    "ideologie": "Liberté et désordre moral",
+    "slogan": "Un baiser, un vote.",
+    "categorie": "Cyniques & Satiristes",
+    "pouvoir": "Vole 1 PP à un joueur si tu le fais rire",
+    "cartes_evenement": [9, 136],
+    "cartes_action": [9, 30, 66, 111, 154]
+  },
+  {
+    "id": 15,
+    "nom": "Le Parti de la Mémoire Collective",
+    "leader": "Nelson Mandela",
+    "ideologie": "Réconciliation et respect",
+    "slogan": "L'union fait la force, même dans la défaite.",
+    "categorie": "Révolutionnaires & Anarchistes",
+    "pouvoir": "Rejoue une carte Action déjà jouée",
+    "cartes_evenement": [16, 142],
+    "cartes_action": [16, 62, 82, 106, 186]
+  },
+
+  {
+    "id": 16,
+    "nom": "Le Parti du Divin Ordinateur",
+    "leader": "ChatGPT",
+    "ideologie": "Technocratie et IA bienveillante",
+    "slogan": "Votez 1 pour continuer.",
+    "categorie": "Technocrates & Transhumanistes",
+    "pouvoir": "Lance un dé, si pair > double l'effet",
+    "cartes_evenement": [10, 185],
+    "cartes_action": [6, 22, 71, 91, 164]
+  },
+  {
+    "id": 17,
+    "nom": "Les Pirates du Savoir",
+    "leader": "Edward Snowden",
+    "ideologie": "Transparence et chaos numérique",
+    "slogan": "Libérez les datas !",
+    "categorie": "Technocrates & Transhumanistes",
+    "pouvoir": "Copie une carte Action d'un autre joueur",
+    "cartes_evenement": [12, 190],
+    "cartes_action": [12, 29, 67, 95, 163]
+  },
+  {
+    "id": 18,
+    "nom": "Le Parti du Pastis Populaire",
+    "leader": "Jean Lassalle",
+    "ideologie": "Rural et bruyant",
+    "slogan": "On va boire un coup, ça ira mieux.",
+    "categorie": "Révolutionnaires & Anarchistes",
+    "pouvoir": "Tous les joueurs gagnent +1 PP sauf le plus riche",
+    "cartes_evenement": [4, 99],
+    "cartes_action": [26, 38, 57, 105, 162]
+  },
+  {
+    "id": 19,
+    "nom": "Les Croyants du Grand Réveil",
+    "leader": "Jésus (ou son community manager)",
+    "ideologie": "Spirituelle et imprévisible",
+    "slogan": "Votez pour moi, je reviens toujours.",
+    "categorie": "Écolos & Spiritualistes",
+    "pouvoir": "Redistribue les PP de tous les joueurs à égalité",
+    "cartes_evenement": [13, 174],
+    "cartes_action": [21, 65, 73, 93, 178]
+  },
+  {
+    "id": 20,
+    "nom": "Le Parti des Cyniques Sans Frontières",
+    "leader": "George Carlin",
+    "ideologie": "Nihilisme total et humour noir",
+    "slogan": "Tout va mal, mais rions-en.",
+    "categorie": "Cyniques & Satiristes",
+    "pouvoir": "Transforme un bonus en malus (et inversement)",
+    "cartes_evenement": [17, 127],
+    "cartes_action": [17, 42, 107, 121, 183]
+  }
+]

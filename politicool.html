@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Politicool</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Politicool</h1>
+      <p>Le jeu de société politique le plus absurde</p>
+    </header>
+
+    <main>
+      <section id="setup">
+        <h2>Configuration des joueurs</h2>
+        <div id="joueurs"></div>
+        <button onclick="ajouterJoueur()">Ajouter un joueur</button>
+        <button onclick="demarrerJeu()">Démarrer la partie</button>
+      </section>
+
+      <section id="jeu" style="display: none">
+        <h2>Tour de jeu</h2>
+        <div id="etat-jeu"></div>
+        <div id="fiches-joueurs" class="grille-joueurs"></div>
+        <div id="resultat"></div>
+        <div class="buttons">
+          <button onclick="piocher('evenement')">Carte Événement</button>
+          <button onclick="piocher('action')">Carte Action</button>
+          <button onclick="piocher('flash')">Flash Info</button>
+          <button onclick="tourSuivant()">Tour suivant</button>
+        </div>
+        <div id="resultat"></div>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 Politicool Inc. - Créé par Wariopaddy</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
