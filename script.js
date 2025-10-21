@@ -194,7 +194,9 @@ function afficherCarte(carte, type) {
   if (type === "evenement" && carte.description) {
     html += `<p><strong>Description :</strong> ${carte.description}</p>`;
   }
-
+ if (type === "flash" && carte.description) {
+    html += `<p><strong>Description :</strong> ${carte.description}</p>`;
+  }
   if (carte.bonus) {
     html += `<p><strong>Bonus :</strong> ${carte.bonus}</p>`;
   }
@@ -252,3 +254,4 @@ afficherEtatJeu();
 
 // --- CHARGEMENT AUTOMATIQUE --- //
 window.addEventListener("DOMContentLoaded", chargerDonnees);
+
