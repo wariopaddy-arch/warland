@@ -191,12 +191,10 @@ function afficherCarte(carte, type) {
   `;
 
   // ✅ Ajout de la description spécifique aux cartes événement
-  if (type === "evenement" && carte.description) {
+  if (carte.description) {
     html += `<p><strong>Description :</strong> ${carte.description}</p>`;
   }
- if (type === "flash" && carte.description) {
-    html += `<p><strong>Description :</strong> ${carte.description}</p>`;
-  }
+
   if (carte.bonus) {
     html += `<p><strong>Bonus :</strong> ${carte.bonus}</p>`;
   }
@@ -251,7 +249,15 @@ function appliquerEffetCarte(carte, type) {
   });
 }
 afficherEtatJeu();
+// --- TOUR SUIVANT --- //
+function tourSuivant() {
+  etatPartie.joueurActif++;
+  if (etatPartie.joueurActif >= joueurs.length) {
+    etatPartie.joueurActif = 0;
+    etatPartie.tour++;
+  }
+  //afficherEtatJeu();
+}
 
 // --- CHARGEMENT AUTOMATIQUE --- //
 window.addEventListener("DOMContentLoaded", chargerDonnees);
-
